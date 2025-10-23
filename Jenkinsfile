@@ -8,7 +8,7 @@ pipeline {
 
     environment {
         DOCKER_HUB_USER = 'anuragkumarpoddar'
-        IMAGE_NAME = 'anuragkumarpoddar/docker-jenkins'
+        IMAGE_NAME = 'docker-jenkins'
         IMAGE_TAG = 'v1'
         CONTAINER_NAME = "docker-jenkins"
     }
