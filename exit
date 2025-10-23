@@ -1,0 +1,20 @@
+[33mcommit 9f0f9f520e3f1925403956d0fe52b7f45b22960b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: a59dd4b 146d0e8
+Author: Anurag-Kumar-Poddar <anuragkumarpoddar736@gmail.com>
+Date:   Thu Oct 23 10:19:56 2025 +0530
+
+    Merge branch 'main' of https://github.com/Anurag-Kumar-Poddar/springboot-jenkins-docker-integration
+    
+     the commit.
+
+[33mcommit a59dd4b272e7c15739bb2f80baff333c79e4c661[m
+Author: Anurag-Kumar-Poddar <anuragkumarpoddar736@gmail.com>
+Date:   Thu Oct 23 10:16:34 2025 +0530
+
+    first commit
+
+[33mcommit 146d0e891a65c9a5cd63045a60440ee7bdcc613f[m
+Author: Anurag Kumar Poddar <anuragkumarpoddar736@gmail.com>
+Date:   Thu Oct 23 09:55:21 2025 +0530
+
+    Initial commit
