@@ -2,8 +2,8 @@ pipeline {
     agent any
 
      tools {
-        jdk "JDK17"
-        maven "M3" // Jenkins me configure kiya hua Maven ka naam
+        jdk "JAVA_HOME"
+        maven "3.9.9" // Jenkins me configure kiya hua Maven ka naam
     }
 
     environment {
