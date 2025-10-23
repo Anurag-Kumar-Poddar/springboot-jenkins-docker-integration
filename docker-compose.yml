@@ -1,0 +1,9 @@
+version: "3"
+services:
+  springboot-app:
+     image: anuragkumarpoddar/docker-jenkins:v1
+     build: .
+     ports:
+     - :8080
+     scale: 3
+  
